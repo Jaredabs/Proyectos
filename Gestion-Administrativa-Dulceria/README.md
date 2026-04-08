@@ -1,0 +1,48 @@
+# 📊 Sistema de Gestión de Datos (Clientes & Proveedores)
+
+**Desarrollado con Python, PyQt5 y SQLite**
+
+Desarrolle una aplicación de escritorio orientada a la digitalización y gestión administrativa de un comercio. Este sistema inicia con un login con usuario y contraseña. El sistema implementa un ciclo completo de operaciones CRUD (altas, bajas, cambios y consultas) para el control de inventarios, proveedores y clientes, hay diferentes rangos de usuarios en el cual permite diferentes acciones sobre el sistema dependiendo la jerarquia, integrando una interfaz gráfica intuitiva con persistencia de datos en SQLite.
+
+---
+
+## 🚀 Vista Previa
+
+![Pantalla Principal de la Aplicación](https://drive.google.com/file/d/1Ng9hqEduYWuGlD1hw7J4JhXA1W-2VGkp/view?usp=drive_link)
+_Interfaz gráfica diseñada en Qt Designer para una gestión de datos fluida._
+
+---
+
+## 🛠️ Stack Tecnológico
+
+- **Lenguaje:** Python 3.10+
+- **Interfaz Gráfica:** PyQt5 / Qt Designer (`principal.ui`)
+- **Base de Datos:** SQLite (`Proyecto.db`)
+- **Manipulación de Datos:** Pandas (Procesamiento de reportes CSV)
+
+---
+
+## ✨ Características Principales
+
+- **Gestión Integral (CRUD):** Registro, consulta, edición y eliminación de Clientes y Proveedores.
+- **Integración de Reportes:** Lectura y procesamiento de archivos `Reporte_Clientes.csv` y `Reporte_Proveedores.csv`.
+- **Persistencia SQL:** Almacenamiento seguro de datos, garantizando que la información se mantenga tras cerrar la app.
+- **Arquitectura Limpia:** Separación de la lógica de negocio (`principal.py`) y el diseño visual (`principal.ui`).
+
+---
+
+## 📂 Estructura del Proyecto
+
+- `principal.py`: Lógica principal, conexión a base de datos y control de eventos.
+- `principal.ui`: Interfaz visual XML generada en Qt Designer.
+- `Proyecto.db`: Base de datos SQLite que contiene las tablas de registros.
+- `Reporte_*.csv`: Archivos de datos de ejemplo para pruebas de carga.
+
+---
+
+## ⚙️ Instalación y Uso
+
+1. **Clonar el repositorio:**
+   ```bash
+   git clone [https://github.com/tu_usuario/tu_repositorio.git](https://github.com/tu_usuario/tu_repositorio.git)
+   ```
