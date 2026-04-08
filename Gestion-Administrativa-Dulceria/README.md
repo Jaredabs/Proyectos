@@ -8,8 +8,9 @@ Desarrolle una aplicación de escritorio orientada a la digitalización y gesti�
 
 ## 🚀 Vista Previa
 
-![Pantalla Principal de la Aplicación](https://drive.google.com/file/d/1Ng9hqEduYWuGlD1hw7J4JhXA1W-2VGkp/view?usp=drive_link)
-_Interfaz gráfica diseñada en Qt Designer para una gestión de datos fluida._
+![Pantalla Principal de la Aplicación](https://github.com/Jaredabs/Proyectos/blob/main/Gestion-Administrativa-Dulceria/img/menu_Principal.png)
+
+_Interfaz gráfica diseñada en Qt Designer (Menu Principal)_
 
 ---
 
@@ -24,7 +25,7 @@ _Interfaz gráfica diseñada en Qt Designer para una gestión de datos fluida._
 
 ## ✨ Características Principales
 
-- **Gestión Integral (CRUD):** Registro, consulta, edición y eliminación de Clientes y Proveedores.
+- **Gestión Integral (CRUD):** Registro, consulta, edición y eliminación de Clientes, Productos, Usuarios y Proveedores.
 - **Integración de Reportes:** Lectura y procesamiento de archivos `Reporte_Clientes.csv` y `Reporte_Proveedores.csv`.
 - **Persistencia SQL:** Almacenamiento seguro de datos, garantizando que la información se mantenga tras cerrar la app.
 - **Arquitectura Limpia:** Separación de la lógica de negocio (`principal.py`) y el diseño visual (`principal.ui`).
@@ -38,11 +39,6 @@ _Interfaz gráfica diseñada en Qt Designer para una gestión de datos fluida._
 - `Proyecto.db`: Base de datos SQLite que contiene las tablas de registros.
 - `Reporte_*.csv`: Archivos de datos de ejemplo para pruebas de carga.
 
----
 
-## ⚙️ Instalación y Uso
 
-1. **Clonar el repositorio:**
-   ```bash
-   git clone [https://github.com/tu_usuario/tu_repositorio.git](https://github.com/tu_usuario/tu_repositorio.git)
-   ```
+
