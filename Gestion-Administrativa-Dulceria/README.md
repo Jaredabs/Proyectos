@@ -6,7 +6,7 @@ Desarrolle una aplicación de escritorio orientada a la digitalización y gesti�
 
 ---
 
-## 🚀 Vista Previa
+## 🚀Vista Previa
 ![Pantalla Login](https://github.com/Jaredabs/Proyectos/blob/main/Gestion-Administrativa-Dulceria/img/Login.png)
 
 _Interfaz gráfica diseñada en Qt Designer Login_
