@@ -56,7 +56,6 @@ _Interfaz Usuarios_
 - `principal.py`: Lógica principal, conexión a base de datos y control de eventos.
 - `principal.ui`: Interfaz visual XML generada en Qt Designer.
 - `Proyecto.db`: Base de datos SQLite que contiene las tablas de registros.
-- `Reporte_*.csv`: Archivos de datos de ejemplo para pruebas de carga.
 
 
 
