@@ -1,4 +1,4 @@
-# 📊 Sistema de Gestión de Datos (Clientes & Proveedores)
+# 📊 Sistema de Gestión Administrativa Comercio (Clientes, Productos, Proveedores & Productos)
 
 **Desarrollado con Python, PyQt5 y SQLite**
 
@@ -6,17 +6,36 @@ Desarrolle una aplicación de escritorio orientada a la digitalización y gesti�
 
 ---
 
-## 🚀 Vista Previa
+## 🚀Vista Previa
+![Pantalla Login](https://github.com/Jaredabs/Proyectos/blob/main/Gestion-Administrativa-Dulceria/img/Login.png)
 
-![Pantalla Principal de la Aplicación](https://github.com/Jaredabs/Proyectos/blob/main/Gestion-Administrativa-Dulceria/img/menu_Principal.png)
+_Interfaz gráfica diseñada en Qt Designer Login_
 
-_Interfaz gráfica diseñada en Qt Designer (Menu Principal)_
+![Pantalla Principal de la Aplicación](https://github.com/Jaredabs/Proyectos/blob/main/Gestion-Administrativa-Dulceria/img/Menu%20Principal.png)
+
+_Interfaz Menu Principal_
+
+![Pantalla Clientes](https://github.com/Jaredabs/Proyectos/blob/main/Gestion-Administrativa-Dulceria/img/InterfazClientes.png)
+
+_Interfaz Clientes_
+
+![Pantalla Productos](https://github.com/Jaredabs/Proyectos/blob/main/Gestion-Administrativa-Dulceria/img/InterfazProductos.png)
+
+_Interfaz Productos_
+
+![Pantalla Proveedores](https://github.com/Jaredabs/Proyectos/blob/main/Gestion-Administrativa-Dulceria/img/InterfazProveedores.png)
+
+_Interfaz Proveedores_
+
+![Pantalla Usuarios](https://github.com/Jaredabs/Proyectos/blob/main/Gestion-Administrativa-Dulceria/img/InterfazUsuarios.png)
+
+_Interfaz Usuarios_
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-- **Lenguaje:** Python 3.10+
+- **Lenguaje:** Python
 - **Interfaz Gráfica:** PyQt5 / Qt Designer (`principal.ui`)
 - **Base de Datos:** SQLite (`Proyecto.db`)
 - **Manipulación de Datos:** Pandas (Procesamiento de reportes CSV)
@@ -26,7 +45,7 @@ _Interfaz gráfica diseñada en Qt Designer (Menu Principal)_
 ## ✨ Características Principales
 
 - **Gestión Integral (CRUD):** Registro, consulta, edición y eliminación de Clientes, Productos, Usuarios y Proveedores.
-- **Integración de Reportes:** Lectura y procesamiento de archivos `Reporte_Clientes.csv` y `Reporte_Proveedores.csv`.
+- **Integración de Reportes:** Creacion de reportes de los datos guardados en la base de datos.
 - **Persistencia SQL:** Almacenamiento seguro de datos, garantizando que la información se mantenga tras cerrar la app.
 - **Arquitectura Limpia:** Separación de la lógica de negocio (`principal.py`) y el diseño visual (`principal.ui`).
 
@@ -37,7 +56,6 @@ _Interfaz gráfica diseñada en Qt Designer (Menu Principal)_
 - `principal.py`: Lógica principal, conexión a base de datos y control de eventos.
 - `principal.ui`: Interfaz visual XML generada en Qt Designer.
 - `Proyecto.db`: Base de datos SQLite que contiene las tablas de registros.
-- `Reporte_*.csv`: Archivos de datos de ejemplo para pruebas de carga.
 
 
 
