@@ -1,4 +1,4 @@
-# 📊 Sistema de Gestión de Datos (Clientes & Proveedores)
+# 📊 Sistema de Gestión Administrativa Comercio (Clientes, Productos, Proveedores & Productos)
 
 **Desarrollado con Python, PyQt5 y SQLite**
 
@@ -7,19 +7,19 @@ Desarrolle una aplicación de escritorio orientada a la digitalización y gesti�
 ---
 
 ## 🚀 Vista Previa
-![Pantalla Login]()
+![Pantalla Login](https://github.com/Jaredabs/Proyectos/blob/main/Gestion-Administrativa-Dulceria/img/Login.png)
 
-_Interfaz Login_
+_Interfaz gráfica diseñada en Qt Designer Login_
 
 ![Pantalla Principal de la Aplicación](https://github.com/Jaredabs/Proyectos/blob/main/Gestion-Administrativa-Dulceria/img/Menu%20Principal.png)
 
-_Interfaz gráfica diseñada en Qt Designer (Menu Principal)_
+_Interfaz Menu Principal_
 
 ![Pantalla Clientes](https://github.com/Jaredabs/Proyectos/blob/main/Gestion-Administrativa-Dulceria/img/InterfazClientes.png)
 
 _Interfaz Clientes_
 
-![Pantalla Productos]()
+![Pantalla Productos](https://github.com/Jaredabs/Proyectos/blob/main/Gestion-Administrativa-Dulceria/img/Productos.png)
 
 _Interfaz Productos_
 
