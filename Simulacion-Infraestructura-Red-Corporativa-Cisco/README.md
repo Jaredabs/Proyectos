@@ -8,27 +8,27 @@ Este proyecto presenta una propuesta técnica y administrativa para la infraestr
 
 ## Vista Previa del Proyecto
 
-![Planificación de Interiores](img/Interiores-Arquitectura.jpg)
-
-_Distribución de oficinas y áreas de trabajo._
-
-![Distribución de Nodos de Red](img/Interior-Nodos.png)
-
-_Ubicación estratégica de nodos de red._
-
-![Topología General de Red](img/Red-Completa-Software-Cisco.png)
+![Topología General de Red](https://github.com/Jaredabs/Proyectos/blob/main/Simulacion-Infraestructura-Red-Corporativa-Cisco/img/Red-Completa-Software-Cisco.png)
 
 _Arquitectura lógica de la red diseñada en Cisco Packet Tracer._
 
-![Conexión entre Edificios](img/Red-Cisco-Conexion-Entre-Edificios.png)
+![Conexión entre Edificios](https://github.com/Jaredabs/Proyectos/blob/main/Simulacion-Infraestructura-Red-Corporativa-Cisco/img/Red-Cisco-Conexion-Entre-Edificios.png)
 
 _Conectividad entre edificios._
 
-![Fachada del Edificio Corporativo](img/Exterior-Arquitectura-Edificio-Corporativo.png)
+![Planificación de Interiores](https://github.com/Jaredabs/Proyectos/blob/main/Simulacion-Infraestructura-Red-Corporativa-Cisco/img/Interiores-Arquitectura.png)
+
+_Distribución de oficinas y áreas de trabajo._
+
+![Distribución de Nodos de Red](https://github.com/Jaredabs/Proyectos/blob/main/Simulacion-Infraestructura-Red-Corporativa-Cisco/img/Interior-Nodos.png)
+
+_Ubicación estratégica de nodos de red._
+
+![Fachada del Edificio Corporativo](https://github.com/Jaredabs/Proyectos/blob/main/Simulacion-Infraestructura-Red-Corporativa-Cisco/img/Exterior-Arquitectura-Edificio-Corporativo.png)
 
 _Diseño arquitectónico exterior del corporativo._
 
-![Análisis Presupuestal y Financiero](img/Presupuestos.png)
+![Análisis Presupuestal y Financiero](https://github.com/Jaredabs/Proyectos/blob/main/Simulacion-Infraestructura-Red-Corporativa-Cisco/img/Presupuestos.png)
 
 _Gestión de costos, selección de hardware._
 
