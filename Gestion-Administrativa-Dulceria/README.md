@@ -19,15 +19,15 @@ _Interfaz Menu Principal_
 
 _Interfaz Clientes_
 
-![Pantalla Productos](https://github.com/Jaredabs/Proyectos/blob/main/Gestion-Administrativa-Dulceria/img/Productos.png)
+![Pantalla Productos](https://github.com/Jaredabs/Proyectos/blob/main/Gestion-Administrativa-Dulceria/img/InterfazProductos.png)
 
 _Interfaz Productos_
 
-![Pantalla Proveedores]()
+![Pantalla Proveedores](https://github.com/Jaredabs/Proyectos/blob/main/Gestion-Administrativa-Dulceria/img/InterfazProveedores.png)
 
 _Interfaz Proveedores_
 
-![Pantalla Usuarios]()
+![Pantalla Usuarios](https://github.com/Jaredabs/Proyectos/blob/main/Gestion-Administrativa-Dulceria/img/InterfazUsuarios.png)
 
 _Interfaz Usuarios_
 
@@ -35,7 +35,7 @@ _Interfaz Usuarios_
 
 ## 🛠️ Stack Tecnológico
 
-- **Lenguaje:** Python 3.10+
+- **Lenguaje:** Python
 - **Interfaz Gráfica:** PyQt5 / Qt Designer (`principal.ui`)
 - **Base de Datos:** SQLite (`Proyecto.db`)
 - **Manipulación de Datos:** Pandas (Procesamiento de reportes CSV)
@@ -45,7 +45,7 @@ _Interfaz Usuarios_
 ## ✨ Características Principales
 
 - **Gestión Integral (CRUD):** Registro, consulta, edición y eliminación de Clientes, Productos, Usuarios y Proveedores.
-- **Integración de Reportes:** Lectura y procesamiento de archivos `Reporte_Clientes.csv` y `Reporte_Proveedores.csv`.
+- **Integración de Reportes:** Creacion de reportes de los datos guardados en la base de datos.
 - **Persistencia SQL:** Almacenamiento seguro de datos, garantizando que la información se mantenga tras cerrar la app.
 - **Arquitectura Limpia:** Separación de la lógica de negocio (`principal.py`) y el diseño visual (`principal.ui`).
 
