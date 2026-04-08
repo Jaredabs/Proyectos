@@ -8,10 +8,14 @@ Desarrolle una aplicación de escritorio orientada a la digitalización y gesti�
 
 ## 🚀 Vista Previa
 
-![Pantalla Principal de la Aplicación](https://github.com/Jaredabs/Proyectos/blob/main/Gestion-Administrativa-Dulceria/img/menu_Principal.png)
+![Pantalla Principal de la Aplicación](https://github.com/Jaredabs/Proyectos/blob/main/Gestion-Administrativa-Dulceria/img/Menu%20Principal.png)
 
 _Interfaz gráfica diseñada en Qt Designer (Menu Principal)_
 
+
+![Pantalla Clientes]()
+
+_Interfaz Clientes_
 ---
 
 ## 🛠️ Stack Tecnológico
