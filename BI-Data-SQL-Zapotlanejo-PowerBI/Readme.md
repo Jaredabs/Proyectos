@@ -17,7 +17,11 @@ Desarrollar una solución integral de Inteligencia de Negocios y Big Data para e
 
 El proyecto se diseñó estructurando un diagrama BPMN para asegurar la integridad de la información desde su levantamiento físico hasta la visualización directiva.
 
-![Arquitectura General](URL_DE_TU_IMAGEN_AQUI)
+![1](https://github.com/Jaredabs/Proyectos/blob/main/BI-Data-SQL-Zapotlanejo-PowerBI/img/Imagen1_Levantamiento_Censo.png)
+![2](https://github.com/Jaredabs/Proyectos/blob/main/BI-Data-SQL-Zapotlanejo-PowerBI/img/Imagen2_Extraccion_Recopilacion.png)
+![3](https://github.com/Jaredabs/Proyectos/blob/main/BI-Data-SQL-Zapotlanejo-PowerBI/img/Imagen3_Analitico_DataWareh.png)
+![4](https://github.com/Jaredabs/Proyectos/blob/main/BI-Data-SQL-Zapotlanejo-PowerBI/img/Imagen4_Visualizacion_PowerBI.png)
+![5](https://github.com/Jaredabs/Proyectos/blob/main/BI-Data-SQL-Zapotlanejo-PowerBI/img/Imagen5_Toma_Decisiones.png)
 
 ---
 
@@ -25,9 +29,9 @@ El proyecto se diseñó estructurando un diagrama BPMN para asegurar la integrid
 
 Para centralizar y procesar el censo de negocios, se implementó un modelo relacional normalizado tipo **Copo de Nieve (3FN)**. Esto garantiza la integridad referencial y optimiza el rendimiento de las consultas para las herramientas analíticas.
 
-<!-- BRO: Arrastra aquí la captura de tu diagrama relacional de SQL Server -->
 
-![Modelo Copo de Nieve](URL_DE_TU_IMAGEN_AQUI)
+
+![Modelo Copo de Nieve](https://github.com/Jaredabs/Proyectos/blob/main/BI-Data-SQL-Zapotlanejo-PowerBI/img/DiagramaCopoNieve.png)
 
 **Ejemplo de creación de vistas para análisis (SQL):**
 
@@ -53,6 +57,7 @@ Para centralizar y procesar el censo de negocios, se implementó un modelo relac
 
 ```
 
+---
 ## 🔬 3. Análisis Exploratorio de Datos (RStudio)
 
 Se procesaron los datos extraídos utilizando **RStudio** y la librería `ggplot` para ejecutar análisis estadísticos descriptivos, encontrando el promedio de seguidores por zona
@@ -85,8 +90,10 @@ Se procesaron los datos extraídos utilizando **RStudio** y la librería `ggplot
     )
 ```
 
-![Grafica de RStudio (Promedio seguidores por Zona)](URL_DE_TU_IMAGEN_AQUI)
+![Grafica de RStudio (Promedio seguidores por Zona)](https://github.com/Jaredabs/Proyectos/blob/main/BI-Data-SQL-Zapotlanejo-PowerBI/img/Grafica_Seg_Por_Zona_RStudio.png)
 
+
+---
 ## 📈 4. Inteligencia de Negocios y Visualización (Power BI)
 
 La parte final se hizo en Power BI, aplicando funciones lógicas en DAX para categorizar la madurez digital e integrar mapas de geolocalización, entre otras cosas. Todas estas funciones derivadas de la informacion almacenada en nuestra base de datos fueron asignadas a Dashboards inteligentes e interactivos, con la finalidad de dar datos concretos de la situacion digital en el municipio de Zapotlanejo.
@@ -108,16 +115,16 @@ La parte final se hizo en Power BI, aplicando funciones lógicas en DAX para cat
 
 **Dashboard 1 (General)**
 
-![Dashboard 1 (General)](URL_DE_TU_IMAGEN_AQUI)
+![Dashboard 1 (General)](https://github.com/Jaredabs/Proyectos/blob/main/BI-Data-SQL-Zapotlanejo-PowerBI/img/Dash1.png)
 
 **Dashboard 2 (WEB)**
 
-![Dashboard 2 (WEB)](URL_DE_TU_IMAGEN_AQUI)
+![Dashboard 2 (WEB)](https://github.com/Jaredabs/Proyectos/blob/main/BI-Data-SQL-Zapotlanejo-PowerBI/img/Dash2png.png)
 
 **Dashboard 3 (Redes Sociales)**
 
-![Dashboard 3 (Redes Sociales)](URL_DE_TU_IMAGEN_AQUI)
+![Dashboard 3 (Redes Sociales)](https://github.com/Jaredabs/Proyectos/blob/main/BI-Data-SQL-Zapotlanejo-PowerBI/img/Dash3.png)
 
 **Dashboard 4 (Analisis Peatonal y Turistico)**
 
-![Dashboard 4 (Analisis Peatonal y Turistico)](URL_DE_TU_IMAGEN_AQUI)
+![Dashboard 4 (Analisis Peatonal y Turistico)](https://github.com/Jaredabs/Proyectos/blob/main/BI-Data-SQL-Zapotlanejo-PowerBI/img/Dash4.png)
